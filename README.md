@@ -1,0 +1,4 @@
+- pip install spacy and en_core_web
+- first step : trying an existing model in spacy_basic_pipeline.py
+- at this point it recognizes the labels it knows about, training our own model would allow us to define our own labels
+- lets try our own in our_ner_pipeline.py by training with our data a pretrained model
